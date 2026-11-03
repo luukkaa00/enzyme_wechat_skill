@@ -1,0 +1,26 @@
+{
+  "academic": {
+    "name": "翡翠·学术标签",
+    "main": "#23745b",
+    "dark": "#194e3e",
+    "pale": "#f3f8f5",
+    "border": "#cfdfd6",
+    "heading_asset": "heading-academic.svg"
+  },
+  "molecular": {
+    "name": "靛蓝·分子节点",
+    "main": "#465aa0",
+    "dark": "#29376d",
+    "pale": "#f4f6fc",
+    "border": "#d8dff0",
+    "heading_asset": "heading-molecular.svg"
+  },
+  "botanical": {
+    "name": "鼠尾草·自然手记",
+    "main": "#6b7950",
+    "dark": "#3f513b",
+    "pale": "#faf8f1",
+    "border": "#dddcc9",
+    "heading_asset": "heading-botanical.svg"
+  }
+}

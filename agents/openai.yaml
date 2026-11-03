@@ -1,0 +1,13 @@
+interface:
+  display_name: 酶工程论文公众号写作
+  short_description: 核对论文事实，撰写三部分科普推文，支持三款主题与章节文字共框、遇图断开排版
+  default_prompt: 使用 $write-enzyme-wechat，将我提供的论文改写为面向酶工程读者的约1000字公众号推文，确认正文后生成HTML。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
